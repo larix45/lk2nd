@@ -79,7 +79,7 @@ void arch_early_init(void)
 #endif
 }
 
-void arch_init(void)
+static void arch_init(void)
 {
 }
 
